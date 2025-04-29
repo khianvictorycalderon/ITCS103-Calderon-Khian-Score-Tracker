@@ -1,3 +1,1 @@
-Python Score Tracker System by Khian
-
-A simple project for my subject computer programming 2.
+This branch is hidden in plain in order to prevent other people from copying my code, this branch is only dedicated to sir Rovie.
