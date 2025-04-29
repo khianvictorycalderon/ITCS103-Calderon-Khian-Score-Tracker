@@ -1,1 +1,6 @@
 This branch is hidden in plain in order to prevent other people from copying my code, this branch is only dedicated to sir Rovie.
+
+Library prerequisites:
+- Tkinter
+- Openpyxl
+- Pillow
